@@ -1,0 +1,17 @@
+   <body>
+      <h1>Hello 223</h1>
+      <h2>Hello 223</h2>
+
+     <script type = "text/javascript">
+         $(document).ready(function() {
+            // document.write("Hello, World!");
+         });
+    
+
+        $(document).ready(function(){
+            $("button").click(function(){
+                $("p").hide();
+            });
+        });
+  </script>
+   </body>
