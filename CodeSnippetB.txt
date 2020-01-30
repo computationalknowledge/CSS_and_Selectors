@@ -1,0 +1,30 @@
+<html>
+   <head>
+      <title>The jQuery Example</title>
+      <style>
+        h1 {
+            color:red;
+        }
+         #green-heading {
+            color:pink;
+        }
+        </style>
+      <script type = "text/javascript" 
+         src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">
+      </script>
+		
+   </head>
+	
+   <body>
+ <div>
+    <h1>The domestic dog (Canis lupus familiaris when considered a subspecies of the wolf or Canis familiaris when considered a distinct species)[5] is a member of the genus Canis (canines), which forms part of the wolf-like canids,[6] and is the most widely abundant terrestrial carnivore. </h1>
+    <h2 id="green-heading">Their long association with humans has led dogs to be uniquely attuned to human behavior[18] and they are able to thrive on a starch-rich diet that would be inadequate for other canids. </h2>
+ </div>
+
+<div >
+    <h1 id="green-heading">In 1999, a study of mitochondrial DNA indicated that the domestic dog may have originated from multiple grey wolf populations, with the dingo and New Guinea singing dog "breeds" having developed at a time when human populations were more isolated from each other. </h1>
+    <h3>The origin of the domestic dog includes the dog's evolutionary divergence from the wolf, its domestication, and its development into dog types and dog breeds.  </h3>
+ </div>
+
+   </body>
+</html>
